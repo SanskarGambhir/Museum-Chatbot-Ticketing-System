@@ -7,3 +7,4 @@
    - Secure User Authentication: Ensures safe and private user interactions.
    - Twilio Integration: Provides SMS-based verification for secure user identity confirmation.
    - Text-to-Speech Integration: Offers audio responses for improved accessibility.
+   - Take a virtual tour of the museum for a remote experience.
